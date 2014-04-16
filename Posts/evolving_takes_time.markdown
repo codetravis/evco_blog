@@ -8,7 +8,7 @@ Natural evolution is said to have occured over billions of years.  Obviously, we
 
 Just as natural evolution occurs over time, programming ability evolution occurs over work.  The more work you do, the closer you get to that highly evolved state that is a competent programmer.
 
-This is not a new idea. [Quantity beats Quality](http://blog.codinghorror.com/quantity-always-trumps-quality/)  [Do Lots of Deliberate Practice](http://programmer.97things.oreilly.com/wiki/index.php/Do_Lots_of_Deliberate_Practice)
+This is not a new idea and does not just apply to programming. Jeff Atwood on his [blog](http://www.codinghorror.com/quantity-always-trumps-quality/) has several posts about the volume of work that needs to be done.  [Jon Jagger](http://jonjagger.blogspot.com) wrote a bit for 97 Things Every Programmer Should Know called [Do Lots of Deliberate Practice](http://programmer.97things.oreilly.com/wiki/index.php/Do_Lots_of_Deliberate_Practice). The title says it all.
 
 ## Mistakes
 
@@ -16,4 +16,4 @@ As you do large amounts of work, you make mistakes. Think of these mistakes as b
 
 But one day you realize that you can code that up in an afternoon, you see the problem more quickly, you start rejecting the unneccessary features earlier.
 
-That is my goal and the purpose of this blog.  To give new and growing developers an example of what it is like to go through those bad branches and then make course corrections in the evolutionary tree. 
+That is my goal and the purpose of this blog.  To give new and growing developers an example of what it is like to go through those bad branches and then make course corrections in the evolutionary tree.
