@@ -2,13 +2,13 @@ Recently, I have begun working on a web development project for a friend.  It is
 
 The problem is not that I cannot do it or don't have the ability, it is that I simply have not done enough of it to be fast.  I am having to look up things that a more experienced web designer would probably know off the top of their heads.
 
-## Evolving for Developers is a function of volume
+## Evolving for Developers is a Function of Volume of Work
 
 Natural evolution is said to have occured over billions of years.  Obviously, we don't have that long to get better at programming. Besides, the evolution you want to see in your programming will not come about purely as a result of time, but as a result of the amount of work you do, which takes time.
 
 Just as natural evolution occurs over time, programming ability evolution occurs over work.  The more work you do, the closer you get to that highly evolved state that is a competent programmer.
 
-This is not a new idea.  It has been written about by many others. 
+This is not a new idea. [Quantity beats Quality](http://blog.codinghorror.com/quantity-always-trumps-quality/)  [Do Lots of Deliberate Practice](http://programmer.97things.oreilly.com/wiki/index.php/Do_Lots_of_Deliberate_Practice)
 
 ## Mistakes
 
